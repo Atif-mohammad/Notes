@@ -1,0 +1,23 @@
+Git is a version control system,use to save your file locally or over a control system it is not visually good but do your task immediately 
+
+Some Basics before GIT:-
+touch : used to make file pass the file name and its extension 
+mkdir to make a directory in 
+rm : to remove the file
+ls : to hsow file in the current directory 
+
+
+
+
+
+git init : to initialize the git in command bash 
+git add : add the file in staging area(didn't commited yet)
+
+git commit -m "Your message here" ( here '-m' is used to pass the message into it to remember what you have commited at that specific time 
+git log : is used to retain you commited hostory 
+every log has a unique key which we can use for retaining the state 
+git checkout "your unique number if the git commit log" you can go back to that state 
+git checkout -b branch_name : to create a new branch 
+git branch : to check current branches 
+
+basics are done 
